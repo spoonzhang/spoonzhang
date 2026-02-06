@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 I'm Spoon
 
-<!--
-**spoonzhang/spoonzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Builder & Community Architect** *Empowering non-coders with AI-Native workflows.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Focus
+- **Community:** 打造 AI 实践社群，探索 Vibe Coding 与工具分享。
+- **Implementation:** 垂直行业 LLM 落地
+- **Learning:** 敏捷开发管理 (Agile) 与工程化。
+
+---
+> **"Focus on building, not just coding."**
