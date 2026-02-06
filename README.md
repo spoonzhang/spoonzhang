@@ -15,7 +15,7 @@
 ### 📞 Connect with me
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="text-align: center;">
-    <img src="[你的AI社群群二维码Raw链接](https://github.com/spoonzhang/spoonzhang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260206143802_353_201.jpg?raw=true)" width="160" height="160" alt="AI社群"/>
+    <img src="https://github.com/spoonzhang/spoonzhang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260206143802_353_201.jpg?raw=true" width="160" height="160" alt="AI社群"/>
     <p style="margin: 5px 0; font-size: 14px;">AI实践社群</p>
   </div>
 </div>
