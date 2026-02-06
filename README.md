@@ -16,7 +16,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="text-align: center;">
     <img src="https://github.com/spoonzhang/spoonzhang/blob/main/ScreenShot_2026-02-06_144516_602.png?raw=true" width="160" height="160" alt="AI社群"/>
-    <p style="margin: 5px 0; font-size: 14px;">AI实践社群</p>
+    <p style="margin: 5px 0; font-size: 14px;">加入我们的AI实践社群</p>
   </div>
 </div>
 
